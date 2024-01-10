@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ik8Q+g/YkbT09kfXbd1L8qAkQ/bqB9Bqtr+Sfx2aSLGK44q61lmcnB03a8bIXhtKhiH69tlc+yW1CUkHbGnAw==",
+  "success": true,
+  "projectFilePath": "D:\\Rapporteur\\ConsoleAppRepporteur\\ConsoleAppRepporteur\\ConsoleAppRepporteur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vipashit.sood\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

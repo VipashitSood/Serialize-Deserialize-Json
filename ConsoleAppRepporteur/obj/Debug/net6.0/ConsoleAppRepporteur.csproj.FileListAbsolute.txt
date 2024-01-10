@@ -1,0 +1,17 @@
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\bin\Debug\net6.0\ConsoleAppRepporteur.exe
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\bin\Debug\net6.0\ConsoleAppRepporteur.deps.json
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\bin\Debug\net6.0\ConsoleAppRepporteur.runtimeconfig.json
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\bin\Debug\net6.0\ConsoleAppRepporteur.dll
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\bin\Debug\net6.0\ConsoleAppRepporteur.pdb
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.csproj.AssemblyReference.cache
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.AssemblyInfoInputs.cache
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.AssemblyInfo.cs
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.csproj.CoreCompileInputs.cache
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.dll
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\refint\ConsoleAppRepporteur.dll
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.pdb
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.genruntimeconfig.cache
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ref\ConsoleAppRepporteur.dll
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Rapporteur\ConsoleAppRepporteur\ConsoleAppRepporteur\obj\Debug\net6.0\ConsoleAppRepporteur.csproj.CopyComplete
